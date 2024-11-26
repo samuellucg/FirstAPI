@@ -1,0 +1,16 @@
+# Controllers
+Responsável pelas requisições http da Api.
+
+## Data
+Responsável pela manipulação do banco de dados, CRUD e etc.
+
+### Migrations
+Representa toda mudança no banco de dados. Como a criação de uma nova tabela, adicionar uma nova coluna e etc.
+
+dotnet ef migrations add - Para adicionar uma mudança no banco de dados.
+
+#### Models
+Modelo de dados seguidos pelo Banco de dados. Mapeia uma tabela do banco.
+
+##### ViewModels
+Responsável por definir o que o usuário obrigatoriamente precisa mandar.

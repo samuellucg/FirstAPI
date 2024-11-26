@@ -14,3 +14,6 @@ Modelo de dados seguidos pelo Banco de dados. Mapeia uma tabela do banco.
 
 ##### ViewModels
 Responsável por definir o que o usuário obrigatoriamente precisa mandar.
+
+
+Dotnet watch run - É vantajoso pois te permite deixar o servidor rodando e ao decorrer que você fizer alterações no código e ir salvando. Ele irá recompilar automaticamente
